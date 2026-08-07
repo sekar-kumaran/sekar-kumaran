@@ -9,8 +9,9 @@ Building scalable AI systems that solve real-world problems through innovation, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sekarkumaran461)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/sekar-kumaran)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sekarkumaran547@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome)](https://sekarkumaran.me)
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=800&lines=AI+Engineer+in+the+Making;Building+Real+World+AI+Products;Machine+Learning+%7C+LLMs+%7C+Automation;Future-Ready+Technology+Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=800&lines=AI+Engineer+in+the+Making;Building+Real+World+AI+Prod[...]"
 
 </div>
 
