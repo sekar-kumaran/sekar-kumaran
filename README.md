@@ -2,159 +2,209 @@
 
 # Sekar Kumaran
 
-### AI Engineer • Machine Learning Developer • Intelligent Product Builder
+### Aspiring Data Scientist & AI/ML Engineer
 
-Building scalable AI systems that solve real-world problems through innovation, automation, and execution.
+Building intelligent applications that turn data into decisions, predictions, and practical solutions using machine learning, LLMs, MLOps, and DevOps.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sekarkumaran461)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/sekar-kumaran)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sekarkumaran547@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome)](https://sekarkumaran.me)
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1200&color=0A66C2&center=true&vCenter=true&width=800&lines=AI+Engineer+in+the+Making;Building+Real+World+AI+Products" alt="AI Engineer typing" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sekarkumaran461)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sekarkumaran.me)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sekarkumaran547@gmail.com)
 
 </div>
 
 ---
 
-# 🚀 About Me
+## About Me
 
-I am a Computer Science undergraduate passionate about building **AI-powered products** with real-world impact.
+I am an aspiring Data Scientist and AI/ML Engineer focused on building intelligent, data-driven applications that solve real-world problems.
 
-Focused on creating practical systems in:
+My work spans:
+- Machine learning and predictive analytics
+- LLM applications and AI-powered assistants
+- Retrieval-augmented generation (RAG) and AI agents
+- Data preprocessing, feature engineering, and model evaluation
+- MLOps workflows for model artifacts, validation, and deployment
+- DevOps practices including Docker, CI/CD, and cloud-native deployment
 
-- Artificial Intelligence  
-- Machine Learning  
-- LLM Applications  
-- AI Agents  
-- Automation Tools  
-- Scalable Backend Engineering  
-
----
-
-# 🎯 What Makes Me Valuable
-
-✅ Strong AI & ML foundation  
-✅ Product-building mindset  
-✅ Fast learner with execution focus  
-✅ Comfortable with backend + AI systems  
-✅ Startup-oriented ownership mentality  
-✅ Continuous self-improvement attitude  
+I enjoy working across the full lifecycle of an AI/ML solution — from understanding the problem and preparing the data to training models, integrating them into applications, and deploying reliable systems.
 
 ---
 
-# 🛠 Tech Stack
+## Core Focus
 
-## Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Data Science & Machine Learning
+- Exploratory data analysis
+- Statistical modeling and inference
+- Feature engineering
+- Forecasting and predictive analytics
+- Clustering, anomaly detection, and recommendation systems
+- Model evaluation and validation
 
-## AI / Machine Learning
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+### AI & LLM Engineering
+- LLM-powered applications
+- RAG pipelines and embeddings
+- Semantic search and knowledge retrieval
+- AI assistants and agentic workflows
+- Local and cloud-based model integration
 
-## GenAI / LLM Stack
-`LangChain` `RAG Pipelines` `Prompt Engineering` `Vector Databases`  
-`Embeddings` `Semantic Search` `LLM Apps` `AI Agents`
+### Applied AI Product Building
+- Interactive dashboards and analytics apps
+- REST APIs for model inference
+- AI-integrated business applications
+- End-to-end ML pipelines
+- Data-driven decision support systems
 
-## Backend / Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-# 🔥 Featured Projects
-
-## 🤖 AI Personal Assistant *(Flagship Project)*
-
-A next-generation intelligent assistant focused on automation, productivity, reminders, scheduling, and future voice capabilities.
-
-### Highlights:
-- Context-aware responses  
-- Smart reminders  
-- Productivity automation  
-- Memory-based personalization  
-- Expandable modular system  
+### MLOps & DevOps
+- Model artifact management
+- Inference validation and schema checks
+- Automated testing and CI pipelines
+- Dockerized deployment
+- Kubernetes and cloud-native setup
+- Monitoring and operational readiness
 
 ---
 
-## 📄 AI Research Assistant
+## Featured Projects
 
-An AI-powered platform that helps users interact with PDFs, research papers, and documents intelligently.
+### [AI Personal Assistant](https://github.com/sekar-kumaran/ai-personal-assistant)
+A privacy-focused AI assistant with local LLM support, voice interaction, automation workflows, and multi-surface interface design.
 
-### Highlights:
-- Semantic Search  
-- LangChain Workflow  
-- RAG Architecture  
-- Smart Summarization  
-- Contextual Answers  
+**Highlights:** Ollama, FastAPI, RAG, Whisper, SQLite, Docker, Kubernetes
 
 ---
 
-## 🛒 Ecommerce Intelligence Platform
+### [ResearchAI](https://github.com/sekar-kumaran/research-ai)
+A research intelligence platform for paper discovery, retrieval, analysis, and AI-based synthesis using hybrid retrieval and LLM workflows.
 
-A full ML ecosystem for ecommerce analytics and growth optimization.
-
-### Highlights:
-- Churn Prediction  
-- Fraud Detection  
-- Demand Forecasting  
-- Recommendation Engine  
-- Customer Segmentation  
+**Highlights:** FastAPI, FAISS, BM25, embeddings, PostgreSQL, AI agents, Docker, Kubernetes
 
 ---
 
-## ⚡ Smart City Energy Optimization
+### [SmartStock](https://github.com/sekar-kumaran/smartstock)
+A machine learning application for demand forecasting, inventory intelligence, clustering, anomaly detection, and business decision support.
 
-ML-powered system for forecasting urban energy consumption and improving efficiency.
+**Highlights:** LightGBM, feature engineering, product segmentation, anomaly detection, Streamlit, Docker, pytest
 
-### Highlights:
-- Predictive Analytics  
-- Optimization Insights  
-- Dashboard Monitoring  
-- Real-Time Decisions  
+**Live Demo:** https://smart-stock-ml.streamlit.app/
 
 ---
 
-# 🌱 Current Focus Roadmap
+### [InfraPilot](https://github.com/sekar-kumaran/infra-pilot)
+An infrastructure operations platform focused on observability, incident correlation, automation, and DevOps integration.
 
-🔹 Building production-grade AI products  
-🔹 Mastering LangChain + RAG Architectures  
-🔹 Scaling backend engineering skills  
-🔹 Strengthening DSA & problem solving  
-🔹 Contributing to impactful projects  
+**Highlights:** FastAPI, PostgreSQL, Redis, Celery, RabbitMQ, Kubernetes, Terraform, Ansible, Prometheus, Grafana
 
 ---
 
-# 💼 Open to Opportunities
+### [SmartPOS](https://github.com/sekar-kumaran/smartpos)
+A full-stack business application with AI-enabled workflows, billing, analytics, and deployment-focused architecture.
 
-Interested in:
-
-- AI Engineer Internships  
-- Machine Learning Roles  
-- GenAI Product Engineering  
-- Startup Tech Teams  
-- High-Impact Innovation Projects
+**Highlights:** React, FastAPI, PostgreSQL, SQLite, Redis, Docker Compose, Jenkins, GitHub Actions
 
 ---
 
-# 🧭 Professional Mindset
+## Technical Stack
 
-> Build consistently. Learn aggressively. Deliver value.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### AI / ML
+- Python
+- Scikit-learn
+- XGBoost
+- LightGBM
+- TensorFlow
+- PyTorch
+- Pandas
+- NumPy
+- Polars
+- SciPy
+- FAISS
+- SentenceTransformers
+- LangChain / agent workflows
+- Ollama / OpenAI-compatible APIs
+
+### Data & Analytics
+- Exploratory Data Analysis
+- Feature Engineering
+- Time-Series Forecasting
+- Customer Segmentation
+- Recommendation Systems
+- Anomaly Detection
+- Statistical Analysis
+- Data Visualization
+
+### App Development
+- FastAPI
+- Django
+- React
+- Next.js
+- Streamlit
+- REST APIs
+- WebSockets
+- PostgreSQL
+- SQLite
+- Redis
+
+### DevOps / MLOps
+- Docker
+- Docker Compose
+- GitHub Actions
+- Jenkins
+- Kubernetes
+- Kustomize
+- Terraform
+- Ansible
+- Prometheus
+- Grafana
+- Loki
+- Model artifact validation
+- CI/CD pipelines
 
 ---
+
+## What I Bring
+
+- Strong interest in data science, machine learning, and applied AI
+- Hands-on experience building intelligent applications beyond notebooks
+- Ability to integrate ML models into APIs, dashboards, and user-facing systems
+- Practical understanding of feature engineering, model evaluation, and deployment workflows
+- Exposure to AI/LLM systems including RAG, retrieval, embeddings, and agent-based workflows
+- Familiarity with MLOps and DevOps tools for building maintainable, scalable systems
+- Problem-solving mindset focused on creating useful solutions with technology
+
+---
+
+## Current Focus
+
+- Production-grade LLM applications
+- Agent evaluation and observability
+- Reliable RAG pipelines
+- Model monitoring and drift detection
+- Scalable AI/ML systems
+- Deployment-ready ML pipelines
+- MLOps best practices
+- Open-source learning and experimentation
+
+---
+
+## Connect
+
+I’m open to opportunities and collaborations in:
+- Data Science
+- AI/ML Engineering
+- Applied AI
+- Machine Learning Product Development
+- MLOps / DevOps for AI systems
+
+If you’re building something meaningful in AI, ML, or data-driven product development, let’s connect.
 
 <div align="center">
 
-## Let's Build Something Valuable
-
-⭐ Explore my repositories and connect with me.
+### Build useful things. Make them reliable. Keep learning.
 
 </div>
